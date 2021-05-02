@@ -1,11 +1,10 @@
 # Dealhunter Discordbot
-Set up alarms to get notified when your favorite frozen pizza is on offer. 
-
 ![dotnet](https://img.shields.io/badge/discord--net-v2.3.1-blue)
 ![dotnet](https://img.shields.io/badge/.NET-5.0-blue)
 ![csharp](https://img.shields.io/badge/C%23-9-blue)
 ![ide](https://img.shields.io/badge/IDE-vs2019-8d51cb)
 
+Set up alarms to get notified when your favorite frozen pizza is on offer. 
 
 ## About
 
