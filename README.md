@@ -16,6 +16,9 @@ Features include:
 
 ### Configuration
 
+> TODO
+> - How to config
+
 ### Running the bot
 
 > :warning: Remember to set up configuration first!
@@ -30,6 +33,8 @@ Using `clone` command: This project uses the Discord bot template from this repo
 > - How to build
 
 ## Usage
+
+The prefix for all comamnds is `!offers`
 
 ### Search
 
@@ -50,4 +55,7 @@ Currently, the bot only lists the first 24 offers that it finds in the specified
 Currently, the bot posts as soon as it finds a new offer matching specified keywords.
 
 ![offer found message](docs/offer_found_message.png)
+
+> TODO
+> - How to add an offer alarm/agent 
 
